@@ -1,0 +1,6 @@
+OUTPUT:
+
+vaikive@lx0-fuxi194:~$ docker images
+REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
+vaikive@lx0-fuxi194:~$ docker ps -a
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
