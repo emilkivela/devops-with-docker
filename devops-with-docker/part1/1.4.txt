@@ -1,0 +1,5 @@
+COMMANDS:
+docker run -it ubuntu --name onefour sh -c 'while true; do echo "Input website:"; read website; echo "Searching.."; sleep 1; curl http://$website; done'
+sudo docker exec -it onefour bash
+root@a4a4a6665807:/# apt-get update
+root@a4a4a6665807:/# apt-get -y install curl
