@@ -1,0 +1,4 @@
+docker build . -f 1.8.Dockerfile -t ex_110
+
+docker run -p 127.0.0.3456:8080 ex_110
+

@@ -1,0 +1,2 @@
+ubuntu image size: 83MB
+alpine image size: 15.7MB
